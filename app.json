@@ -15,7 +15,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.maayanalbert.expodeploydemo",
-      "ascAppId": "YOUR_APP_STORE_CONNECT_APP_ID",
+      "ascAppId": "6737283509",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }

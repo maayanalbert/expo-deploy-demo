@@ -14,7 +14,12 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.maayanalbert.expodeploydemo"
+      "bundleIdentifier": "com.maayanalbert.expodeploydemo",
+      "ascAppId": "YOUR_APP_STORE_CONNECT_APP_ID",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+
     },
     "android": {
       "adaptiveIcon": {

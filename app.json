@@ -13,9 +13,7 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
       "bundleIdentifier": "com.maayanalbert.expodeploydemo",
-      "ascAppId": "6737283509",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }

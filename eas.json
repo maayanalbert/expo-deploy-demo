@@ -16,6 +16,13 @@
     }
   },
   "submit": {
-    "production": {}
+    "production": {
+      "ios": {
+        "appleId": "maayan.albert@gmail.com",
+        "ascAppId": "6737283509",
+        "sku": "eve",
+        "bundleIdentifier": "com.maayanalbert.expodeploydemo"
+      }
+    }
   }
 }
